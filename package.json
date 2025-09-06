@@ -25,6 +25,7 @@
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0",
     "tailwind-merge": "^2.6.0",
+    "three": "^0.180.0",
     "zod": "^3.24.1"
   },
   "devDependencies": {
@@ -64,5 +65,6 @@
     "**/*.{json,css,scss,md,webmanifest}": [
       "prettier -w"
     ]
-  }
+  },
+  "packageManager": "pnpm@10.2.1+sha512.398035c7bd696d0ba0b10a688ed558285329d27ea994804a52bad9167d8e3a72bcb993f9699585d3ca25779ac64949ef422757a6c31102c12ab932e5cbe5cc92"
 }
