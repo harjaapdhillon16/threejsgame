@@ -586,7 +586,7 @@ const PhotorealisticFPS = () => {
   );
 };
 
-const ClientOnly = ({ children }) => {
+const ClientOnly = () => {
   const [isClient, setIsClient] = useState(false);
 
   useEffect(() => {
